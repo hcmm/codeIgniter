@@ -1,0 +1,24 @@
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  /* line 10, ../sass/retina.scss */
+  .intro a .icon {
+    background-image: url("../images/arrow-down-white@2x.png");
+    background-size: 16px 7px;
+  }
+
+  /* line 18, ../sass/retina.scss */
+  .work .item .window {
+    background-image: url("../images/icon-zoom@2x.png");
+    background-size: 30px 30px;
+  }
+  /* line 22, ../sass/retina.scss */
+  .work .item .window span.link {
+    background-image: url("../images/icon-link@2x.png");
+    background-size: 10px 12px;
+  }
+
+  /* line 33, ../sass/retina.scss */
+  .contact .item.social a {
+    background-image: url("../images/icons-social@2x.png");
+    background-size: 190px 70px;
+  }
+}
